@@ -1,5 +1,3 @@
-# week-4-game
-
 Crystals Collector Game
 
 When the page loads, a random number will generate in the "Number to Get" box
